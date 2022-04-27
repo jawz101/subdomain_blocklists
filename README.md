@@ -1,2 +1,2 @@
 # subdomain_blocklists
-sites that annoy with subdomains
+entries with many subdomains.  Usually tied to many business clients
