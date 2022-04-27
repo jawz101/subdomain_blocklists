@@ -7,16 +7,16 @@ entries with many subdomains.  Usually tied to many business clients
 * [Casalemedia](http://www.casalemedia.com/)
 * [Demdex](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/demdex-calls.html?lang=en) (Adobe's [Audience Manager](https://developer.adobe.com/audience-manager/))
 * [Doubleclick](https://marketingplatform.google.com/about/enterprise/) (Google)
-* [Igodigital](https://developer.salesforce.com/docs/marketing/marketing-cloud/guide/pb-collect-tracking.html) (bought by ExactTarget which was then bought by Salesforce)
+* [IGoDigital](https://developer.salesforce.com/docs/marketing/marketing-cloud/guide/pb-collect-tracking.html) (bought by ExactTarget which was then bought by Salesforce)
 * [Marketo](https://www.marketo.com/)
-* Moatpixel
-* Mobileapptracking
-* Omtrdc (Omniture)
-* Optimizely
-* Qualtrics
-* Rubiconproject
-* Smartadserver
-* Swrve
-* Taboola
-* Tremorhub
-* Usebutton
+* [Moatpixel](https://www.moat.com/) (by Oracle)
+* [Mobileapptracking](https://www.tune.com) (bought by HasOffers and then bought by Tune)
+* [Omtrdc](http://www.omniture.com/) (Omniture.  Bought by Adobe)
+* [Optimizely](https://www.optimizely.com/)
+* [Qualtrics](https://www.qualtrics.com/) (bought by SAP)
+* [Rubiconproject](https://rubiconproject.com/)
+* [Smartadserver](https://smartadserver.com/)
+* [Swrve](https://www.swrve.com/)
+* [Taboola](https://www.taboola.com/)
+* [Tremorhub](https://www.taptica.com/) (Bought by Taptica)
+* [Usebutton](https://www.usebutton.com/)
