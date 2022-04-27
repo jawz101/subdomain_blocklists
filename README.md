@@ -10,7 +10,7 @@ foodplace.adcompany.com
 cardealer.adcompany.com
 ... and hundreds more
 
-Some browser-based ad blockers can support a fancier wildcard rule to block all subdomains of a top-level domain (example: *.adcompany.com) but a host file can only treat each name as its own line item.  Consequently, this list takes these domains and breaks them out.  The list is comppiled from lookups taken from the Cisco Umbrella Top 1 Million list.  Cisco has some public DNS resolvers which billions of devices use
+Some browser-based ad blockers can support a fancier wildcard rule to block all subdomains of a top-level domain (example: *.adcompany.com) but a host file can only treat each name as its own line item.  Consequently, this list takes these domains and breaks them out.  The list is compiled from lookups taken from the Cisco Umbrella Top 1 Million list.  Cisco has some public DNS resolvers which billions of devices use
 
 https://umbrella.cisco.com/products/recursive-dns-services
 
@@ -18,6 +18,8 @@ They publish a Top 1 Million list every day here:
 http://s3-us-west-1.amazonaws.com/umbrella-static/index.html
 
 This list is just a quick skim of that daily file and pulls out some domains which are known ad/tracking/analytics companies and throws them into a host file.
+
+It is just an experiment so I won't likely update it often.  If someone wants to do so I would gladly hand it off.
 
 
 * 2mdn (a part of the Google Doubleclick product)
