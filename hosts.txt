@@ -20814,9 +20814,6 @@
 127.0.0.1 app-796db8a17c48a13b.mobileapi.usebutton.com
 127.0.0.1 app-7abdf4066f172d98.mobileapi.usebutton.com
 
-# [wework.com]
-127.0.0.1 rubiconproject.com.wework.com
-
 # [wsj.com]
 127.0.0.1 optimizely.wsj.com
 
