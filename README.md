@@ -22,7 +22,7 @@ They publish a Top 1 Million list every day here:
 
 http://s3-us-west-1.amazonaws.com/umbrella-static/index.html
 
-This list is just a quick skim of that daily file and pulls out some domains which are known ad/tracking/analytics companies and throws them into a host file.  You could argue "this is a lot of junk for just one company.  Sheesh."  But if you just have a host file, this is how you would have to block the 20,000 companies these companies who use these ad/tracking/analytic products.
+This list is just a quick skim of that daily file and pulls out some domains which are known ad/tracking/analytics companies and throws them into a host file.  You could argue "this is a lot of junk for just 20 company domains.  Sheesh."  BUT these 20 or so ad companies host 20,000+ other companies that use their  ad/tracking/analytic products and this is how you would have to block them with a host file.  Sucks doesn't it.
 
 It is just an experiment so I won't likely update it often.  If someone wants to do so I would gladly hand it off.
 
