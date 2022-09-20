@@ -1,6 +1,9 @@
 # subdomain_blocklists
 entries with many subdomains.  Usually tied to many business clients.
 
+download link:
+https://raw.githubusercontent.com/jawz101/subdomain_blocklists/main/hosts.txt
+
 Longer description:
 Some ad companies use a DNS scheme that clutters up host file blocklists.
 
